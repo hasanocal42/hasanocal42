@@ -1,4 +1,3 @@
-[![MasterHead](https://www.mondedesgrandesecoles.fr/la-piscine-de-42-temoignage/)
 <h1 align="center">Hi 👋, I'm Hasan Ocal</h1>
 <h3 align="center">A passionate Web3 developer from Cyprus</h3>
 

@@ -23,3 +23,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanocal42&show_icons=true&locale=en" alt="hasanocal42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanocal42&" alt="hasanocal42" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Serverbauer/Serverbauer/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Serverbauer/count.svg?"  />
+</div>
+
+###

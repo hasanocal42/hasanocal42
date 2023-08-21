@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **Ecole 42**
 
+- 📚 I’m currently learning C, Python
+
 - 💬 Ask me about **nft**
 
-- 📫 How to reach me **hasanocal@windowslive.com**
+- 📫 How to reach me Discord: hasaanocal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

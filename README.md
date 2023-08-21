@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **nft**
 
-- 📫 How to reach me Discord: hasaanocal.
+- 📫 How to reach me hasaocal@windowslive.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

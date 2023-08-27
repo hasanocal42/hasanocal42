@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Hasan Ocal</h1>
 <h3 align="center">A passionate Coding Student from Cyprus</h3>
 

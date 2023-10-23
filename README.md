@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **nft**
 
-- 📫 How to reach me hasaocal@windowslive.com
+- 📫 How to reach me hasanocal@windowslive.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
